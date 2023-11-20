@@ -1,1 +1,1 @@
-# FrozenLake-v1
+Frozen Lake
